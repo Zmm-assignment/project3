@@ -1,8 +1,8 @@
 # project3
-**t0.fq、t3.fq**：两个不同时间段的barcodes测序数据；
-**codon_table.csv**：各密码子编码的氨基酸single、triple名；
-**barcode_reference.csv**：每个barcode对应位置的密码子突变情况。
-**environment.yml**：运行此代码所需要的环境。包含pandas 1.3.2、numpy、scipy 1.7.1、hvplot 0.7.3、panel 0.12.5、seaborn、matplotlib 3.4.3、BIO 1.3.3等packages。
+****t0.fq、t3.fq****：两个不同时间段的barcodes测序数据；
+****codon_table.csv****：各密码子编码的氨基酸single、triple名；
+****barcode_reference.csv****：每个barcode对应位置的密码子突变情况。
+****environment.yml****：运行此代码所需要的环境。包含pandas 1.3.2、numpy、scipy 1.7.1、hvplot 0.7.3、panel 0.12.5、seaborn、matplotlib 3.4.3、BIO 1.3.3等packages。
 **Deep mutational scanning analysis**：深度突变扫描是一种高通量方法，用于测量突变对蛋白质功能的影响，利用下一代测序技术在单个实验中评估蛋白质中每个位置每种可能氨基酸变化的功能后果。
 **DNA barcodes**：在生成变体库时，将唯一的DNA条形码（barcode）与每个变体相关联，扫描所有barcodes后进行排序，以确定每个变体的富集分数。
 **目的**：通过在酵母中对激酶Src进行深度突变扫描，检测出对Src蛋白活性具有显著影响的突变位点。Src活性越高，酵母生长越慢，而Src活性越低，酵母生长越快。
