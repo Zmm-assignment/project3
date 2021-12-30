@@ -1,7 +1,7 @@
 # Project3-Group6
 ## 数据介绍
 ### t0.fq、t3.fq：
-两个不同时间段的barcodes测序数据。
+起始和结束时间点的barcodes测序数据。
 （下载链接：https://pan.baidu.com/s/1P-N6Gn4RbLJcrVa7zQASJQ 提取码：rlm5） 
 ### codon_table.csv：
 各密码子编码的氨基酸single、triple名。
