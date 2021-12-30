@@ -1,7 +1,7 @@
 # Project3-Group6
 ## 数据介绍
 ### t0.fq、t3.fq：
-起始和最终两个时间点的barcodes测序数据存放于master分支里。 
+起始和最终两个时间点的barcodes测序数据，并存放于master分支里。 
 ### codon_table.csv：
 各密码子编码的氨基酸single、triple名。
 ### barcode_reference.csv：
