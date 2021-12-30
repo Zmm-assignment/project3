@@ -1,0 +1,23 @@
+name: base
+channels:
+  - https://mirrors.sustech.edu.cn/anaconda/pkgs/main/
+  - https://mirrors.sustech.edu.cn/anaconda/pkgs/free/
+  - defaults
+  - pyviz
+dependencies:
+  - conda
+  - python=3.8
+  - menuinst
+  - console_shortcut
+  - powershell_shortcut
+  - conda-env
+  - conda-build
+  - conda-verify
+  - _ipyw_jlab_nb_ext_conf
+  - anaconda==2021.05=py38_0
+  - anaconda-navigator
+  - navigator-updater
+  - hvplot
+  - biopython
+  - jupyter-panel-proxy
+prefix: D:\Program Files (x86)\Anaconda
