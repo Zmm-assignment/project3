@@ -5,7 +5,7 @@
 （下载链接：https://pan.baidu.com/s/1P-N6Gn4RbLJcrVa7zQASJQ 提取码：rlm5） 
 ### codon_table.csv：
 各密码子编码的氨基酸single、triple名。
-### arcode_reference.csv：
+### barcode_reference.csv：
 每个barcode对应位置的密码子突变情况。 
 ### environment.yml：
 运行此代码所需要的环境。包含pandas 1.3.2、numpy、scipy 1.7.1、hvplot 0.7.3、panel 0.12.5、seaborn、matplotlib 3.4.3、BIO 1.3.3等packages。 
