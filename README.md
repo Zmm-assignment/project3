@@ -7,6 +7,8 @@
 各密码子编码的氨基酸single、triple名； barcode_reference.csv：每个barcode对应位置的密码子突变情况。 
 ### environment.yml：
 运行此代码所需要的环境。包含pandas 1.3.2、numpy、scipy 1.7.1、hvplot 0.7.3、panel 0.12.5、seaborn、matplotlib 3.4.3、BIO 1.3.3等packages。 
+### project3.ipynb：
+数据处理所用的代码。
 ### Deep mutational scanning analysis：
 深度突变扫描是一种高通量方法，用于测量突变对蛋白质功能的影响，利用下一代测序技术在单个实验中评估蛋白质中每个位置每种可能氨基酸变化的功能后果。 
 ### DNA barcodes：
