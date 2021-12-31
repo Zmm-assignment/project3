@@ -7,7 +7,7 @@
 ### barcode_reference.csv：
 每个barcode对应位置的密码子突变情况。 
 ### WT_seq.txt
-该测序序列的Wild type碱基序列信息。
+该测序位置区间的Wild type碱基序列信息。
 ### environment.yml：
 运行此代码所需要的环境。包含pandas 1.3.2、numpy、scipy 1.7.1、hvplot 0.7.3、panel 0.12.5、BIO 1.3.3等packages。 
 ### project3.ipynb：
