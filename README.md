@@ -6,13 +6,13 @@
 各密码子编码的氨基酸single、triple名。
 ### barcode_reference.csv：
 每个barcode对应位置的密码子突变情况。 
-### WT_seq.txt
+### WT_seq.txt：
 该测序位置区间的Wild type碱基序列信息。
 ### environment.yml：
 运行此代码所需要的环境。包含pandas 1.3.2、numpy、scipy 1.7.1、hvplot 0.7.3、panel 0.12.5、BIO 1.3.3等packages。 
 ### project3.ipynb：
 数据处理所用的代码。
-### figures
+### figures：
 数据可视化结果，包含整体的热图、火山图以及筛选出来三个对Src蛋白活性影响最显著的位置突变情况柱状图。
 ## 背景介绍
 ### Deep mutational scanning analysis：
